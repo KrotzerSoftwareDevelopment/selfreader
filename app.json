@@ -1,0 +1,12 @@
+{
+  "name": "selfreader",
+  "displayName": "selfreader",
+  "expo": {
+    "name": "selfreader",
+    "slug": "selfreader",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
